@@ -1,0 +1,50 @@
+{
+  "_from": "master",
+  "_id": "master@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-4Wxz27XUuNUQuRV/oU72C/V2Bw4=",
+  "_location": "/master",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "master",
+    "name": "master",
+    "escapedName": "master",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/master/-/master-1.0.1.tgz",
+  "_shasum": "e16c73dbb5d4b8d510b9157fa14ef60bf576070e",
+  "_spec": "master",
+  "_where": "C:\\Users\\home\\Documents\\dv\\commands\\music",
+  "author": {
+    "name": "Gui Lin",
+    "email": "guileen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kissjs/node-master/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "node.js daemon/cluster easier",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8"
+  },
+  "homepage": "https://github.com/kissjs/node-master#readme",
+  "main": "master.js",
+  "name": "master",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kissjs/node-master.git"
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "purge",
+  "version": "1.0.0",
+  "main": "purge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bugsnag": "^2.4.3",
+    "commando": "0.0.2",
+    "config": "^1.30.0",
+    "config.json": "0.0.4",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "helper.js": "^1.4.18",
+    "internal": "^1.0.8",
+    "logger.js": "0.0.1",
+    "module": "^1.2.5",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.10",
+    "node.js": "0.0.0",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
